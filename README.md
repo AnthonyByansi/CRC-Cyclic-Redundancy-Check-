@@ -14,6 +14,7 @@ They are present in many of the link layers that TCP/IP is used over. For instan
 
 Here, we'll look at how to employ this technique in the data link layer to find errors on the receiver end. Additionally, you'll see the data format that the sender and receiver use to communicate.
 
+### Typical example
 Say a sender wishes to send data with a length of M. Let's now assume that the highest degree generator polynomial function, R, is what produces the CRC bits. The sender follows up by sending a total of M+R data bits to the recipient.
 # Ilustration  
 ![CRC demostration](./crc.jpg)
