@@ -4,7 +4,7 @@ CRC is Commonly used in digital networks and storage devices to identify uninten
 The MODULO algorithm serves as the foundation for the CRC, a complicated algorithm evolved from the CHECKSUM error detection technique. For executing the computations, it is relied on the value of polynomial coefficients in binary format.
 
 
-They are present in many of the link layers that TCP/IP is used over. For instance, Ethernet and Wi-Fi packets both contain CRCs
+They are present in many of the link layers that TCP/IP is used over. For instance, Ethernet and Wi-Fi packets both contain CRCs.
 
 ## Features of Cyclic Redundancy Checks (CRC) 
 1. The maximum degree of the generator polynomial should be represented by bits in the CRC.
